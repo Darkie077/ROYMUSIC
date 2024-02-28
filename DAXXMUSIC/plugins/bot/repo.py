@@ -23,7 +23,7 @@ async def start(_, msg):
           InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_friendz"),
+          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/The_Chatting_Enthausiasts"),
           InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/anujkumarroy/ROYMUSIC"),
           ],
     ]
